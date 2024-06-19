@@ -1,0 +1,54 @@
+.jp{
+    background-image: url('https://www.shutterstock.com/shutterstock/videos/1107788731/thumb/1.jpg?ip=x480');
+}
+.h1{
+    font-family: "Playwrite PL", cursive;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(220, 238, 18);
+}
+.result{
+    padding-left: 550px;
+    padding-top: 150px;
+}
+.button{
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: blueviolet;
+}
+
+.question {
+  font-family: "Poppins", sans-serif;;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: lightgreen;
+  padding-left: 340px;
+  padding-bottom: 50px;
+}
+
+.options {
+  margin-bottom: 20px;
+  font-size: 23px ;
+  padding-left: 340px;
+  color: rgb(250, 254, 251);
+  font-family: "Poppins", sans-serif;;
+}
+
+.option {
+  display: block;
+  margin-bottom: 10px;
+  
+}
+.result {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-top: 50px;
+}
+
+.hide{
+  display: none;
+}
